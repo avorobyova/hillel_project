@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"src","l":"Calculator"},{"p":"src","l":"Divide"},{"p":"src","l":"DoubleSum"},{"p":"src","l":"Main"},{"p":"src","l":"Minus"},{"p":"src","l":"Multiply"},{"p":"src","l":"Plus"}]
